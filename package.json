@@ -1,6 +1,5 @@
 {
     "name": "nll-test-lib",
-    "private": true,
     "version": "1.0.1",
     "files": [
         "dist"
